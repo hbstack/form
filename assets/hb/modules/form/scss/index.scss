@@ -1,0 +1,11 @@
+.form-floating {
+    &.required {
+        > label {
+            &::before {
+                color: red;
+                content: "*";
+                margin-right: 0.125rem;
+            }
+        }
+    }
+}
