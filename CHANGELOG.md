@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/hbstack/form/compare/v0.2.0...v0.2.1) (2024-06-30)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/hb to v0.12.3 ([d4bfc5e](https://github.com/hbstack/form/commit/d4bfc5edc8375d4db6e312bfcb5e72935b10733f))
+
 ## [0.2.0](https://github.com/hbstack/form/compare/v0.1.1...v0.2.0) (2024-05-28)
 
 
