@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.2.1](https://github.com/hbstack/form/compare/v0.2.0...v0.2.1) (2025-10-14)
+
+
+### Continuous Integration
+
+* **deps:** update module github.com/hbstack/hb to v0.12.3 ([d4bfc5e](https://github.com/hbstack/form/commit/d4bfc5edc8375d4db6e312bfcb5e72935b10733f))
+* **deps:** update module github.com/hbstack/hb to v0.12.4 ([1137180](https://github.com/hbstack/form/commit/1137180a8ee9d47965a34a276c5ea558be102758))
+* **deps:** update module github.com/hbstack/hb to v0.13.0 ([84316a0](https://github.com/hbstack/form/commit/84316a095cee5f3e0f87d2e11c21144300e3d4f6))
+* **deps:** update module github.com/hbstack/hb to v0.14.0 ([63e9487](https://github.com/hbstack/form/commit/63e94878613a103ccb73a25fa405f53be869daeb))
+* **deps:** update module github.com/hbstack/hb to v0.15.1 ([10f64b8](https://github.com/hbstack/form/commit/10f64b8d2f5be07de14c91f94bc82bea29a62be5))
+* **deps:** update module github.com/hbstack/hb to v0.15.2 ([f4539b8](https://github.com/hbstack/form/commit/f4539b80cf60fd877e0f79672e7ac3f4a5439a3e))
+* **deps:** update module github.com/hbstack/hb to v0.15.3 ([e9bbcec](https://github.com/hbstack/form/commit/e9bbceca01450339f73848e73bbd54e6b8f5d96e))
+* **deps:** update module github.com/hbstack/hb to v0.15.4 ([d74e193](https://github.com/hbstack/form/commit/d74e193da3ec93fff31ac00a4e233e02c54fdc20))
+* **deps:** update module github.com/hbstack/hb to v0.16.0 ([75c892a](https://github.com/hbstack/form/commit/75c892a4d022d03ed1a2401cc7520a2484f78a1a))
+* **deps:** update module github.com/hbstack/hb to v0.16.2 ([86f97ec](https://github.com/hbstack/form/commit/86f97ec4b2168e7eb05f5367e43fd0e15aac8820))
+
 ## [0.2.0](https://github.com/hbstack/form/compare/v0.1.1...v0.2.0) (2024-05-28)
 
 
